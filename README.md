@@ -1,2 +1,3 @@
 # TargetRecognitionInSARimages
 Target recognition in SAR images
+SAR(Synthetic aperture radar) is an imaging radar that transmits microwaves which generates imagery through the reflected microwaves from the objects in both high and azimuth range resolutions. The good things about SAR is that it works in all weather conditions, day/night so it has many application areas like navigation, guidance, remote sensing, reconnaissance, resource exploration etc.. It is difficult to recognize an object in SAR imagery due to absence of color information and shape reflection from a target changes. In the proposed project, a model was developed based on Convolutional Neural Network for target recognition in SAR images.
